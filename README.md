@@ -1,4 +1,4 @@
-<img src="https://www.lambdatest.com/resources/images/news24.gif" alt="MasterHead" style="width: 2000px;height:500px;">
+<img src="https://www.lambdatest.com/resources/images/news24.gif" alt="MasterHead" style="width: 2000px;height:400px;">
 <h1 align="center">Hi 👋, I'm Majidi Mohamed-Amine</h1>
 <h3 align="center">A passionate developer web from Morocco</h3>
 
