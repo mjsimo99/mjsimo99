@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohamed70356781" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed70356781?logo=twitter&style=for-the-badge" alt="mohamed70356781" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
