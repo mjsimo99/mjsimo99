@@ -1,6 +1,6 @@
 <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="MasterHead" style="width: 2000px;height:400px;">
 <h1 align="center">Hi 👋, I'm Majidi Mohamed-Amine</h1>
-<h3 align="center">A passionate developer web from Morocco</h3>
+<h3 align="center">A Developpeur full stack Java from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjsimo99&label=Profile%20views&color=0e75b6&style=flat" alt="mjsimo99" /> </p>
 
