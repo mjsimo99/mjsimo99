@@ -1,30 +1,66 @@
-<img src="https://www.lambdatest.com/resources/images/news24.gif" alt="MasterHead" style="width: 2000px;height:400px;">
-<h1 align="center">Hi 👋, I'm Majidi Mohamed-Amine</h1>
-<h3 align="center">A Developpeur full stack Java from Morocco</h3>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Mohamed-Amine%20Majidi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Java%20Developer%20%7C%20Morocco%20%F0%9F%87%B2%F0%9F%87%A6&descAlignY=58&descSize=18" alt="header" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjsimo99&label=Profile%20views&color=0e75b6&style=flat" alt="mjsimo99" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/mohamed70356781" target="blank"><img src="https://img.shields.io/twitter/follow/mohamed70356781?logo=twitter&style=for-the-badge" alt="mohamed70356781" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed-Amine;Full+Stack+Java+Developer;I+build+clean%2C+scalable+web+apps;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Java**
+![Profile views](https://komarev.com/ghpvc/?username=mjsimo99&label=Profile%20views&color=0e75b6&style=flat-square)
+[![Twitter](https://img.shields.io/twitter/follow/mohamed70356781?logo=twitter&style=flat-square)](https://twitter.com/mohamed70356781)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedaminmajidi@gmail.com)
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+</div>
 
-- 📫 How to reach me **mohamedaminmajidi@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mohamed70356781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed70356781" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-amine majidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-amine majidi" height="30" width="40" /></a>
-<a href="https://fb.com/mohashark200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohashark200" height="30" width="40" /></a>
-<a href="https://instagram.com/simo_mj90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simo_mj90" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- 🚀 Full Stack Developer, specialized in the **Java** ecosystem
+- 🔭 Building robust back-ends and modern, responsive front-ends
+- 🌱 Always improving: clean code, architecture, and best practices
+- 📫 Reach me at **mohamedaminmajidi@gmail.com**
+- 📂 All my projects: [github.com/mjsimo99](https://github.com/mjsimo99?tab=repositories)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjsimo99&show_icons=true&locale=en&layout=compact" alt="mjsimo99" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjsimo99&show_icons=true&locale=en" alt="mjsimo99" /></p>
+## 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjsimo99&" alt="mjsimo99" /></p>
+**Back-end**
+
+![Java](https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,mssql&theme=dark)
+
+**Front-end**
+
+![Frontend](https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,tailwind&theme=dark)
+
+**Tools**
+
+![Tools](https://skillicons.dev/icons?i=git,github,postman&theme=dark)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mjsimo99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjsimo99&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=mjsimo99&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-amine%20majidi)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohamed70356781)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/simo_mj90)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mohashark200)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=100&section=footer" alt="footer" />
