@@ -5,7 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed-Amine;Full+Stack+Java+Developer;I+build+clean%2C+scalable+web+apps;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Profile views](https://komarev.com/ghpvc/?username=mjsimo99&label=Profile%20views&color=0e75b6&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=mjsimo99&label=Profile%20views&color=0e75b6&style=flat" alt="mjsimo99" />
+
 [![Twitter](https://img.shields.io/twitter/follow/mohamed70356781?logo=twitter&style=flat-square)](https://twitter.com/mohamed70356781)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedaminmajidi@gmail.com)
 
