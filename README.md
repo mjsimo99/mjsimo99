@@ -5,9 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed-Amine;Full+Stack+Java+Developer;I+build+clean%2C+scalable+web+apps;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=mjsimo99&label=Profile%20views&color=0e75b6&style=flat" alt="mjsimo99" />
-
-[![Twitter](https://img.shields.io/twitter/follow/mohamed70356781?logo=twitter&style=flat-square)](https://twitter.com/mohamed70356781)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedaminmajidi@gmail.com)
 
 </div>
@@ -101,9 +98,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-majidi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohamed70356781)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/simo_mj90)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mohashark200)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohamed70356781)
 
 </div>
 
