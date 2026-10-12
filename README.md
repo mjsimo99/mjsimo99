@@ -20,16 +20,17 @@
 <!-- ============ ABOUT ============ -->
 ## 🧑‍💻 About Me
 
-```js
-const majidi = {
-  name:      "Majidi Mohamed-Amine",
-  role:      "Full Stack Java Developer",
-  location:  "Morocco 🇲🇦",
-  currently: "Learning Java 🌱",
-  projects:  "github.com/mjsimo99",
-  reachMe:   "mohamedaminmajidi@gmail.com"
-};
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/%F0%9F%91%A4_Name-Majidi_Mohamed--Amine-7c5cff?style=for-the-badge&labelColor=1a1b27" alt="👤 Name" />
+<img src="https://img.shields.io/badge/%F0%9F%92%BC_Role-Full_Stack_Java_Developer-7c5cff?style=for-the-badge&labelColor=1a1b27&logo=openjdk&logoColor=white" alt="💼 Role" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Location-Morocco-7c5cff?style=for-the-badge&labelColor=1a1b27" alt="📍 Location" />
+
+<img src="https://img.shields.io/badge/%F0%9F%8C%B1_Currently-Learning_Java-ff6ac1?style=for-the-badge&labelColor=1a1b27" alt="🌱 Currently" />
+<a href="https://github.com/mjsimo99?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%93%82_Projects-github.com%2Fmjsimo99-ff6ac1?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" alt="📂 Projects" /></a>
+<a href="mailto:mohamedaminmajidi@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%AB_Reach_me-mohamedaminmajidi@gmail.com-ff6ac1?style=for-the-badge&labelColor=1a1b27&logo=gmail&logoColor=white" alt="📫 Reach me" /></a>
+
+</div>
 
 <br/>
 
