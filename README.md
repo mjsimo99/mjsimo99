@@ -27,28 +27,58 @@
 
 **Front-end**
 
-![Frontend](https://skillicons.dev/icons?i=react,angular,vue,ts,html,css,tailwind,bootstrap&theme=dark)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" />
+  <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" height="48" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" height="48" alt="Vue.js" />
+  <img src="assets/icons/react-native.svg" width="48" height="48" alt="React Native" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind" />
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="Bootstrap" />
+</p>
 
 **Back-end**
 
-![Backend](https://skillicons.dev/icons?i=java,spring,hibernate,php,laravel,express&theme=dark)
-![JEE](https://img.shields.io/badge/Java%20(JEE)-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
-![POO](https://img.shields.io/badge/POO-6A11CB?style=flat-square)
+<p>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" />
+  <img src="assets/icons/jee.svg" width="48" height="48" alt="Java EE" />
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=hibernate&theme=dark" width="48" height="48" alt="Hibernate" />
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" width="48" height="48" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48" height="48" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express.js" />
+  <img src="assets/icons/rest-api.svg" width="48" height="48" alt="REST API" />
+  <img src="assets/icons/poo.svg" width="48" height="48" alt="POO" />
+</p>
 
 **Databases & DevOps**
 
-![DB & DevOps](https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,maven&theme=dark)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=maven&theme=dark" width="48" height="48" alt="Maven" />
+  <img src="assets/icons/junit.svg" width="48" height="48" alt="JUnit" />
+  <img src="assets/icons/mockito.svg" width="48" height="48" alt="Mockito" />
+</p>
 
 **UI/UX & Methodologies**
 
-![UI/UX](https://skillicons.dev/icons?i=figma,ai,ae,jira,c,wordpress&theme=dark)
-![UML](https://img.shields.io/badge/UML-0E75B6?style=flat-square)
-![MERISE](https://img.shields.io/badge/MERISE-0E75B6?style=flat-square)
-![Agile/Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=ai&theme=dark" width="48" height="48" alt="Illustrator" />
+  <img src="https://skillicons.dev/icons?i=ae&theme=dark" width="48" height="48" alt="After Effects" />
+  <img src="assets/icons/uml.svg" width="48" height="48" alt="UML" />
+  <img src="assets/icons/merise.svg" width="48" height="48" alt="MERISE" />
+  <img src="assets/icons/jira.svg" width="48" height="48" alt="JIRA (Agile/Scrum)" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C" />
+  <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="48" height="48" alt="WordPress" />
+</p>
 
 ---
 
@@ -69,7 +99,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-amine%20majidi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-majidi)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohamed70356781)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/simo_mj90)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mohashark200)
