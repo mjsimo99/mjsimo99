@@ -25,17 +25,30 @@
 
 ## 🛠️ Tech Stack
 
-**Back-end**
-
-![Java](https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,mssql&theme=dark)
-
 **Front-end**
 
-![Frontend](https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,tailwind&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=react,angular,vue,ts,html,css,tailwind,bootstrap&theme=dark)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Tools**
+**Back-end**
 
-![Tools](https://skillicons.dev/icons?i=git,github,postman&theme=dark)
+![Backend](https://skillicons.dev/icons?i=java,spring,hibernate,php,laravel,express&theme=dark)
+![JEE](https://img.shields.io/badge/Java%20(JEE)-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
+![POO](https://img.shields.io/badge/POO-6A11CB?style=flat-square)
+
+**Databases & DevOps**
+
+![DB & DevOps](https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,maven&theme=dark)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
+
+**UI/UX & Methodologies**
+
+![UI/UX](https://skillicons.dev/icons?i=figma,ai,ae,jira,c,wordpress&theme=dark)
+![UML](https://img.shields.io/badge/UML-0E75B6?style=flat-square)
+![MERISE](https://img.shields.io/badge/MERISE-0E75B6?style=flat-square)
+![Agile/Scrum](https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
